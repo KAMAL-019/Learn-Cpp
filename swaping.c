@@ -5,6 +5,6 @@ int main()
     printf("enter the temp in celsius\n");
     scanf(" %d ",&celsius);
     fahrenheit = (9*celsius)/5 + 32;
-    printf("temp in fahrenheit is :%d",fahrenheit);
+    printf("temp in fahrenheit will be :%d",fahrenheit);
     return 0;
 }
