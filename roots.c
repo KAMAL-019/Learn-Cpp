@@ -11,6 +11,6 @@ int main()
     int root1 = (-b + sqrt (D))/2*a;
     int root2 = (-b - sqrt(D))/2*a;
     printf("D is : %d ",D);
-    printf("roots are: %d\t%d",root1,root2);
+    printf("roots are: %d and %d",root1,root2);
     return 0;
 }
