@@ -10,4 +10,7 @@ int main(){
     float a2 = 1.23;
 
     cout << "char is " << a1<< endl;
+
+    bool x = true;
+    cout<< x << endl;
 }
