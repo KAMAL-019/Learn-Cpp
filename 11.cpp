@@ -9,6 +9,6 @@ int main() {
         cout << "hi";
     }
     else {
-        cout << "hey";
+        cout << "heya";
     }
 }
